@@ -16,7 +16,7 @@
 //let arr = [];
 //arr.unshift(1,2,3,4);
 //arr.reverse();
-//console.log(arr,'uzunlik->',arr.length);
+//console.log(arr,'uz->',arr.length);
 //
 //4-masala
 //let arr = [];
@@ -29,7 +29,7 @@
 //
 //let arr = [3,true, 4, 'true'];
 //arr.pop();
-//console.log('uzunluk->',arr.length, 'massiv->', arr, 'qiymat->',arr.at(0));
+//console.log('uz->',arr.length, 'massiv->', arr, 'qy->',arr.at(0));
 //
 //6-masala
 //let arr = [1,false,'true',4];
@@ -53,38 +53,38 @@
 //let arr = [1,2,3,4];
 //arr.push(9,32);
 //arr.unshift(12);
-//let uzunlik = arr.length;
-//let teskari = arr.reverse();
+//let uz = arr.length;
+//let ts = arr.reverse();
 //let string = arr.join();
-//console.log(teskari, string, uzunlik);
+//console.log(ts, string, uz);
 //
 //10-masala
 //let arr = [1,2,3,4,5,6]
 //let str1 = arr.pop();
 //let str2 = arr.shift();
-//let uzunligi = arr.length;
-//let teskari = arr.reverse();
-//console.log(teskari, uzunligi);
+//let uz = arr.length;
+//let ts = arr.reverse();
+//console.log(ts, uz);
 //
 //11-masala
 //let arr = [1,2,3,4,5]
-//let teskari = arr.reverse();
+//let ts = arr.reverse();
 //let string = arr.toString();
-//let uzunligi = string.length;
-//console.log(teskari, string , uzunligi);
+//let uz = string.length;
+//console.log(ts, string , uz);
 //
 //12-masala
 //
 // let arr = [1,2,3,4,5]
 // let arr1 = [6,7,8,9]
-// let qoshildi = arr.concat(arr1);
-// let olindi = qoshildi.slice(1,-1);
-// let uzunligi = qoshildi.length;
-// console.log(qoshildi, uzunligi);
+// let qsh = arr.concat(arr1);
+// let ol = qsh.slice(1,-1);
+// let uz = qsh.length;
+// console.log(qsh, uz);
 //
 //13-masala
 //let arr =[1,2,3,4,5,6,7,8,9];
-//let ochirildi = arr.splice(2 , 3);
-//let string = ochirildi.toString();
-//let uzunligi = string.length;
-//console.log(ochirildi , string , uzunligi);
+//let och = arr.splice(2 , 3);
+//let string = och.toString();
+//let uz = string.length;
+//console.log(och , string , uz);
